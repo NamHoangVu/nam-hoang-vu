@@ -50,7 +50,7 @@ function Hero() {
                 </a>
             </span>
             <p className={styles.description}>
-                Jeg studerer Anvedt Datateknologi på Oslomet!</p>
+                🎓 Nyutdannet i Anvendt Datateknologi ved OsloMet!</p>
             <a href={CV} download>
                 <button className="hover">
                     CV
